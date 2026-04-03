@@ -61,50 +61,34 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
-- Zhi-Wei Shi, **Yu-Bang Zheng\***, Heng-Chao Li, \"Self-Attention Driven Tensor Representation for High-Order Data Recovery\", _CVPR 2026_.
-
-- Zhi-Wei Shi, **Yu-Bang Zheng**, Heng-Chao Li\*, Antonio Plaza, \"Multidimensional Image Reconstruction via Deep Nonlinear Low-Rank Tensor Decomposition\", _IEEE Transactions on Circuits and Systems for Video Technology_, DOI: 10.1109/TCSVT.2026.3662752, 2026. [[Website]](https://ieeexplore.ieee.org/document/11386834)
-
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Teng-Yu Ji, Ben-Zheng Li, \"Dynamic Low-Rank Tensor Decomposition for Video Applications\", _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 36, no. 1, pp. 449-462, 2026. [[Website]](https://ieeexplore.ieee.org/document/11113406)
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026.
 
 
 ## 2025
 
-- **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5406215, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
+- **Wen-Shuai Hu**, Wei Li\*, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, \"Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.  [[Website]](https://xplorestaging.ieee.org/document/10557680) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
 
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Heng-Chao Li\*, Chao Li, Ting-Zhu Huang, Qibin Zhao, \"Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects\", _Neural Networks_, vol. 191, pp. 107808, 2025. [[Website]](https://www.sciencedirect.com/science/article/pii/S0893608025006884)
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang\*, and Ran Tao, \"Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-17, 2025, Art no. 4409917, doi: 10.1109/TGRS.2025.3566305. [[Website]](https://xplorestaging.ieee.org/document/10981764)
 
-- Shi-Jun Yang, **Yu-Bang Zheng\***, Heng-Chao Li, Yong Chen, Qing Zhu, \"Spectral–Temporal Consistency Prior for Cloud Removal From Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5400212, pp. 1-12, 2025. [[Website]](https://ieeexplore.ieee.org/document/10746549)
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Feng-Hua Huang\*, and Ran Tao, \"Language Dynamic-Guided Spatial-Spectral Network for Cross-Domain Few-Shot Hyperspectral Image Classification\", _Chinese Journal of Electronics_, vol. 34, no. 6, pp. 1845-1860, November 2025, doi: 10.23919/cje.2024.00.310. [[Website]](https://xplorestaging.ieee.org/document/11322820)
 
-- Zhi-Wei Shi, **Yu-Bang Zheng\***, Yi Zhang, Heng-Chao Li, \"Multidimensional Nonlinear Transform-Based Tensor Representation for High-Dimensional Image Reconstruction\", _Pattern Recognition_, vol. 168, pp. 111734, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003942)
+- Haipeng Liu, Zhen Ye\*, **Wen-Shuai Hu\***, Zhan Cao, and Wei Li, \"Spatial–Spectral Hierarchical Multiscale Transformer-Based Masked Autoencoder for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 18, pp. 12150-12165, 2025, doi: 10.1109/JSTARS.2025.3565652. [[Website]](https://xplorestaging.ieee.org/document/11005553)
 
-- Chuan Wang, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ben-Zheng Li, Michael K. Ng, \"Functional Tensor Singular Value Decomposition\", _SIAM Journal on Scientific Computing_, vol. 47, no. 4, pp. A2180-A2204, 2025. [[Website]](https://epubs.siam.org/doi/abs/10.1137/24M1644687)
+- Xudong Zhao, Qi Ming\*, Yixiao Yang\*, **Wen-Shuai Hu**, Wei Li, and Ran Tao, \"Chirplet Fourier Analysis Network for Cross-Scene Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-14, 2025, Art no. 5534114, doi: 10.1109/TGRS.2025.3638009. [[Website]](https://xplorestaging.ieee.org/document/11270899)
 
-- Tian-Yu Ma, Heng-Chao Li\*, **Yu-Bang Zheng**, Qian Du, Antonio Plaza, \"Fully Tensorized Lightweight ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 8, pp. 14213-14227, 2025. [[Website]](https://ieeexplore.ieee.org/document/10798991)
-
-- Wei-Jian Huang, Li Huang, Tai-Xiang Jiang\*, **Yu-Bang Zheng**, Guisong Liu, \"Efficient FCTN Decomposition with Structural Sparsity for Noisy Tensor Completion\", _IEEE Transactions on Big Data_, vol. 11, no. 6, pp. 3225-3239, 2025. [[Website]](https://ieeexplore.ieee.org/document/11077440)
-
-- Bin Xiao, Heng-Chao Li\*, Rui Wang, **Yu-Bang Zheng**, \"Fully-Connected Tensor Network Decomposition with Gradient Factors Regularization for Robust Tensor Completion\", _Signal Processing_, vol. 233, pp. 109933, 2025. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0165168425000489)
 
 ## 2024
 
-- **Yu-Bang Zheng**, Xi-Le Zhao\*, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang, \"SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective\", _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, pp. 26254-26263, 2024. [[Website]](https://ieeexplore.ieee.org/abstract/document/10655696) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_SVDinsTN.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_SVDinsTN.pdf) (<span style="color:red">Poster-Highlight, 11.9% of Accepted Papers</span>)
+- **胡文帅**, 李伟, 李恒超, 张蒙蒙,  陶然. 基于张量空谱卷积长短时记忆网络的遥感图像分类模型[J]. 指挥与控制学报, 2024, 10(4): 458-468. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=Vs3rztogjcVaO8wacHVCqS_XpeFeM_jv3H3uu8XKZHBt0IKx69o56vIYpZaFcirskkCX4rok-RC6TOSFdF4wKo2Ab3yvJpu8OLh3NH4sEaiGJaolG2R8l6uDq8BA08EBFpJBsPSq0xgRZon9Q5ytlG6YsmpAKJ7NY9UhF42qG7KGztTRMQkJFXNUNEg9d8NncKrhiZb0cUo&uniplatform=NZKPT&captchaId=f8bad266-dfb3-4d5c-b982-7b3995d422cd)
 
-- Jia-Jie Yin, Heng-Chao Li, **Yu-Bang Zheng\***, Gui Gao, Yuxin Hu, Ran Tao, \"Spatial-Temporal Weighted and Regularized Tensor Model for Infrared Dim and Small Target Detection\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5005317, pp. 1-17, 2024. [[Website]](https://ieeexplore.ieee.org/document/10583915/)
-
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Provable Stochastic Algorithm for Large-Scale Fully-Connected Tensor Network Decomposition\", _Journal of Scientific Computing_, vol. 98, art no. 16, pp. 1-27, 2024. [[Website]](https://link.springer.com/article/10.1007/s10915-023-02404-1)
-
-- Wen-Jie Zheng, Xiao-Xuan Bai, **Yu-Bang Zheng**, Ya-Ru Fan, Ting-Zhu Huang,  Xi-Le Zhao\*, \"Feature-Domain Fidelity and Tensor Low-Rank Regularization for Cloud Removal in Remote Sensing Images\", _IEEE International Geoscience and Remote Sensing Symposium_, pp. 8274-8277, 2024. [[Website]](https://ieeexplore.ieee.org/document/10641683)
-
-- Yong Chen, Maolin Chen, Wei He, Jinshan Zeng, Min Huang, **Yu-Bang Zheng**, \"Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 62, art no. 5506613, pp. 1-13, 2024. [[Website]](https://ieeexplore.ieee.org/document/10414167) (<span style="color:red">ESI Highly Cited Paper</span>)
 
 ## 2023
 
-- Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[Website]](https://ieeexplore.ieee.org/document/10125571/)
+- Heng-Chao Li, **Wen-Shuai Hu\***, Wei Li, Jun Li, Qian Du, and Antonio Plaza, \"A3CLNN: Spatial, Spectral and Multiscale Attention ConvLSTM Neural Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, no. 2, pp. 747-761, February 2022, doi: 10.1109/TNNLS.2020.3028945. [[Website]](https://xplorestaging.ieee.org/document/9234528) [[Code]](https://github.com/zhaoxile/SSTC_CR) (ESI Highly Cited Paper)
 
 - Yu-Le Wei, **Yu-Bang Zheng\***, Rui Wang, Heng-Chao Li, \"Quaternion Convolutional Neural Network with EMAP Representation for Multisource Remote Sensing Data Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, art no. 5508805, pp. 1-5, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10236572)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Rui Wang, Feng Gao, Qian Du, and Antonio Plaza, \"Pseudo Complex-Valued Deformable ConvLSTM Neural Network With Mutual Attention Learning for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5533017, doi: 10.1109/TGRS.2022.3188791. [[Website]](https://xplorestaging.ieee.org/document/9816024) 
   
 - Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023. [[Website]](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)
 
