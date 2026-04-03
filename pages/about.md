@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, under the supervision of Prof. [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm). 
+I am currently an Assistant Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China, under the supervision of Prof. [Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). 
 
-My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
+My current interests include intelligent interpretation and applications of remote sensing images, computer vision and pattern recognition, deep learning and lightweighting design.
 
-📢 <span style="color:blue">**My team admits 1\~2 PhD students and 7\~10 master’s students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
+📢 <span style="color:blue">**My team "Remote Sensing Intelligence and Computing" led by Professor Heng-Chao Li admits 7\~10 master’s students and 1\~2 PhD students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1500+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
+📧 E-mail: <wshuswjtu@163.com>; <wshu@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 690+](https://scholar.google.com/citations?user=_IXO0bEAAAAJ&hl=en)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/huwenshuai/zh_CN/index/925959/list/index.htm)
 
 # 🔔 News
 
