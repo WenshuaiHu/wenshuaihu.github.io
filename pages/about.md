@@ -112,27 +112,23 @@ My current interests include intelligent interpretation and applications of remo
 
 # 📖 Educations
 
-- *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
-   Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io)
-- *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+- *2017.09-2022.06*: Southwest Jiaotong University (SWJTU); Ph. D. student in Information and Communication Engineering <br>
+  Supervisor: [Prof. Heng-Chao Li (李恒超教授)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
+- *2016.09-2017.06*: Southwest Jiaotong University (SWJTU); Master student in Information and Communication Engineering <br>
+  Supervisor: [Prof. Jun-Huan Feng (冯军焕教授)](https://faculty.swjtu.edu.cn/fengjunhuan)
+- *2012.09-2016.06*: Shanxi Agricultural University (SXAU); Bachelor student in Electronic Information Science and Technology
 
 # 💾 Fundings
 
-- 国家自然科学基金青年项目, 主持, 2024.01-2026.12
-- 四川省自然科学基金青年项目，主持，2024.01-2025.12
-- 中国博士后科学基金特别资助项目，主持，2025.08-2026.07
-- 中央高校基本业务项目，主持，2024.01-2025.12
+- 国家自然科学基金委员会青年科学基金项目(C类), 62501052，2026.01-2028.12, 在研，主持
+- 全国博士后管委会办公室和中国博士后科学基金会国家资助博士后研究人员计划，GZC20242184，2024.07-2026.06, 在研，主持
+- 中国博士后科学基金会面上项目，2024M754088，2024.07-2026.06, 在研，主持
+- 福建省空间信息感知与智能处理重点实验室(阳光学院)开放基金，FKLSIPIP101，2024.01-2025.06，结题，主持
 
 # 🏆 Awards and Honors
 
--  2025年度教育部自然科学奖二等奖, 排名第三, 中华人民共和国教育部, 2025
--  2024年度四川省自然科学奖三等奖, 排名第三, 四川省人民政府, 2024
--  2021年度川渝科技学术大会优秀论文一等奖, 排名第一, 四川省科协和重庆市科协, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
--  四川省优秀毕业生, 电子科技大学, 2023
+-  2025年度教育部（科学研究优秀成果奖）自然科学奖二等奖（4/7）, 中华人民共和国教育部，2025.12.19
+-  2022年度中国电子学会优秀博士学位论文奖（1/1），中国电子学会, 2023.03.08（为西南交通大学首次入选的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
 
 -  
 # 🌐 Academic Activities
