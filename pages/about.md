@@ -82,66 +82,33 @@ My current interests include intelligent interpretation and applications of remo
 - **胡文帅**, 李伟, 李恒超, 张蒙蒙,  陶然. 基于张量空谱卷积长短时记忆网络的遥感图像分类模型[J]. 指挥与控制学报, 2024, 10(4): 458-468. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=Vs3rztogjcVaO8wacHVCqS_XpeFeM_jv3H3uu8XKZHBt0IKx69o56vIYpZaFcirskkCX4rok-RC6TOSFdF4wKo2Ab3yvJpu8OLh3NH4sEaiGJaolG2R8l6uDq8BA08EBFpJBsPSq0xgRZon9Q5ytlG6YsmpAKJ7NY9UhF42qG7KGztTRMQkJFXNUNEg9d8NncKrhiZb0cUo&uniplatform=NZKPT&captchaId=f8bad266-dfb3-4d5c-b982-7b3995d422cd)
 
 
-## 2023
-
-- Heng-Chao Li, **Wen-Shuai Hu\***, Wei Li, Jun Li, Qian Du, and Antonio Plaza, \"A3CLNN: Spatial, Spectral and Multiscale Attention ConvLSTM Neural Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, no. 2, pp. 747-761, February 2022, doi: 10.1109/TNNLS.2020.3028945. [[Website]](https://xplorestaging.ieee.org/document/9234528) [[Code]](https://github.com/zhaoxile/SSTC_CR) (ESI Highly Cited Paper)
-
-- Yu-Le Wei, **Yu-Bang Zheng\***, Rui Wang, Heng-Chao Li, \"Quaternion Convolutional Neural Network with EMAP Representation for Multisource Remote Sensing Data Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, art no. 5508805, pp. 1-5, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10236572)
-
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Rui Wang, Feng Gao, Qian Du, and Antonio Plaza, \"Pseudo Complex-Valued Deformable ConvLSTM Neural Network With Mutual Attention Learning for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5533017, doi: 10.1109/TGRS.2022.3188791. [[Website]](https://xplorestaging.ieee.org/document/9816024) 
-  
-- Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023. [[Website]](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)
-
-- Hao Zhang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5502313, pp. 1-13, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10019288)
-
-- Peng-Ling Wu, Xi-Le Zhao\*, Meng Ding, **Yu-Bang Zheng**, Lu-Bin Cui, Ting-Zhu Huang, \"Tensor Ring Decomposition-Based Model with Interpretable Gradient Factors Regularization for Tensor Completion\", _Knowledge-Based Systems_, vol. 259, pp. 110094, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S095070512201190X)
-
-- Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, vol. 17, pp. 1908–1923, 2023. [[Website]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12383)
-
-
 ## 2022
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+- Heng-Chao Li, **Wen-Shuai Hu\***, Wei Li, Jun Li, Qian Du, and Antonio Plaza, \"A3CLNN: Spatial, Spectral and Multiscale Attention ConvLSTM Neural Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, no. 2, pp. 747-761, February 2022, doi: 10.1109/TNNLS.2020.3028945. [[Website]](https://xplorestaging.ieee.org/document/9234528) [[Code]](https://github.com/zhaoxile/SSTC_CR) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. [[Website]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Rui Wang, Feng Gao, Qian Du, and Antonio Plaza, \"Pseudo Complex-Valued Deformable ConvLSTM Neural Network With Mutual Attention Learning for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-17, 2022, Art no. 5533017, doi: 10.1109/TGRS.2022.3188791. [[Website]](https://xplorestaging.ieee.org/document/9816024) 
+  
+- Heng-Chao Li, Shuang-Shuang Li, **Wen-Shuai Hu\***, Jun-Huan Feng, Wei-Wei Sun, and Qian Du, \"Recurrent Feedback Convolutional Neural Network for Hyperspectral Image Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 5504405, doi: 10.1109/LGRS.2021.3064349. [[Website]](https://xplorestaging.ieee.org/document/9381397)
 
-- Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9314228) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI Highly Cited Paper</span>)
+- Jing-Yu Yang, Heng-Chao Li\*, **Wen-Shuai Hu**, Lei Pan, and Qian Du, \"Adaptive Cross-Attention-Driven Spatial-Spectral Graph Convolutional Network for Hyperspectral Image Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 6004705, doi: 10.1109/LGRS.2021.3131615. [[Website]](https://xplorestaging.ieee.org/document/9628098)
 
-- Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5513916, pp. 1-16, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9524362)
-
-- Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial-Spectral Prior\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5545514, pp. 1-14, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9992168)
 
 ## 2021
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. [[Website]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Yang-Jun Deng, Xian Sun, Qian Du, and Antonio Plaza, \"Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, no. 3, pp. 734-745, April 2021, doi: 10.1109/JSTSP.2021.3063805. [[Website]](https://xplorestaging.ieee.org/document/9369839) 
 
-- Xin Li, Ting-Zhu Huang\*, Xi-Le Zhao\*, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, \"Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion\", _Numerical Algorithms_, vol. 86, pp. 1-24, 2021. [[Website]](https://link.springer.com/article/10.1007/s11075-020-00876-y)
+- **Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137.[[Website]](https://xplorestaging.ieee.org/document/9507255/) 
 
-- Lin Guo, Xi-Le Zhao\*, Xian-Ming Gu, Yong-Liang Zhao, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Three-Dimensional Fractional Total Variation Regularized Tensor Optimized Model for Image Deblurring\", _Applied Mathematics and Computation_, vol. 404, pp. 126224, 2021. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0096300321003143)
-
-- Jie Lin, Ting-Zhu Huang\*, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0096300321004318)
-
-- Yisi Luo, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Yi Chang, \"Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Unsupervised Deep Image Prior\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 9435-9449, 2021. [[Website]](https://ieeexplore.ieee.org/abstract/document/9534671)
+- 李泽琛, 李恒超, **胡文帅**, 杨金玉, 华泽玺\*. 多尺度注意力学习的Faster R-CNN口罩人脸检测模型[J]. 西南交通大学学报, 2021, 56(5): 1002-1010. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=Vs3rztogjcXihdtymADd4BJkBRo3ss_a9Q918f3OahDXKQvuJsXXN1NdPqwTqxeXL3yVaRF_z0yoJu2IET6tK0W5oKy02ajdKhYXI1YQwX2zELlRo6U0q6Hi3ipXoHNIoddpUBECSCM5hl3qsQ9oT2lRFUXeL4IkvYecZet52tqsoOrhRWg307RlkRpUyaC3SW4dia1Rhx0&uniplatform=NZKPT&captchaId=98714099-6673-4d11-b073-97765498730e)
+(<span style="color:red">ESI Highly Cited Paper</span>)
 
 
 ## 2020
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[Website]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947.[[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[Website]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip) (<span style="color:red">2021渝科技学术大会优秀论文一等奖</span>)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) 
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[Website]](https://www.sciencedirect.com/science/article/pii/S0020025520303923) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
-
-
-## 2019
-
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Teng-Yu Ji, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[Website]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
-
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[Website]](https://ieeexplore.ieee.org/document/8900157) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
-
-- Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219311099)
-
-- Jian-Li Wang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, \"Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[Website]](https://ieeexplore.ieee.org/abstract/document/8855071) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
 
 
 # 📖 Educations
