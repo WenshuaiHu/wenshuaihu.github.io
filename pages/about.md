@@ -59,6 +59,7 @@ My current interests include intelligent interpretation and applications of remo
 
 # 📄 Publications 
 
+
 ## 2026
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026.
@@ -97,10 +98,9 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Heng-Chao Li\*, Yang-Jun Deng, Xian Sun, Qian Du, and Antonio Plaza, \"Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, no. 3, pp. 734-745, April 2021, doi: 10.1109/JSTSP.2021.3063805. [[Website]](https://xplorestaging.ieee.org/document/9369839) 
 
-- **Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137.[[Website]](https://xplorestaging.ieee.org/document/9507255/) 
+- Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137.[[Website]](https://xplorestaging.ieee.org/document/9507255/) 
 
 - 李泽琛, 李恒超, **胡文帅**, 杨金玉, 华泽玺\*. 多尺度注意力学习的Faster R-CNN口罩人脸检测模型[J]. 西南交通大学学报, 2021, 56(5): 1002-1010. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=Vs3rztogjcXihdtymADd4BJkBRo3ss_a9Q918f3OahDXKQvuJsXXN1NdPqwTqxeXL3yVaRF_z0yoJu2IET6tK0W5oKy02ajdKhYXI1YQwX2zELlRo6U0q6Hi3ipXoHNIoddpUBECSCM5hl3qsQ9oT2lRFUXeL4IkvYecZet52tqsoOrhRWg307RlkRpUyaC3SW4dia1Rhx0&uniplatform=NZKPT&captchaId=98714099-6673-4d11-b073-97765498730e)
-(<span style="color:red">ESI Highly Cited Paper</span>)
 
 
 ## 2020
