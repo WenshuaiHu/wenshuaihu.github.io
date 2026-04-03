@@ -66,9 +66,9 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2025
 
-- **Wen-Shuai Hu**, Wei Li\*, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, \"Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.  [[Website]](https://xplorestaging.ieee.org/document/10557680) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
+- **Wen-Shuai Hu**, Wei Li\*, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, \"Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.  [[Website]](https://xplorestaging.ieee.org/document/10557680) [[Code]](https://github.com/WenshuaiHu/MSRS_Classification_GCCQTNet)
 
-- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang\*, and Ran Tao, \"Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-17, 2025, Art no. 4409917, doi: 10.1109/TGRS.2025.3566305. [[Website]](https://xplorestaging.ieee.org/document/10981764)
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang\*, and Ran Tao, \"Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-17, 2025, Art no. 4409917, doi: 10.1109/TGRS.2025.3566305. [[Website]](https://xplorestaging.ieee.org/document/10981764) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_HMDA-DANet)
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Feng-Hua Huang\*, and Ran Tao, \"Language Dynamic-Guided Spatial-Spectral Network for Cross-Domain Few-Shot Hyperspectral Image Classification\", _Chinese Journal of Electronics_, vol. 34, no. 6, pp. 1845-1860, November 2025, doi: 10.23919/cje.2024.00.310. [[Website]](https://xplorestaging.ieee.org/document/11322820)
 
@@ -84,9 +84,9 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2022
 
-- Heng-Chao Li, **Wen-Shuai Hu\***, Wei Li, Jun Li, Qian Du, and Antonio Plaza, \"A3CLNN: Spatial, Spectral and Multiscale Attention ConvLSTM Neural Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, no. 2, pp. 747-761, February 2022, doi: 10.1109/TNNLS.2020.3028945. [[Website]](https://xplorestaging.ieee.org/document/9234528) [[Code]](https://github.com/zhaoxile/SSTC_CR) (<span style="color:red">ESI Highly Cited Paper</span>)
+- Heng-Chao Li, **Wen-Shuai Hu\***, Wei Li, Jun Li, Qian Du, and Antonio Plaza, \"A3CLNN: Spatial, Spectral and Multiscale Attention ConvLSTM Neural Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 33, no. 2, pp. 747-761, February 2022, doi: 10.1109/TNNLS.2020.3028945. [[Website]](https://xplorestaging.ieee.org/document/9234528) [[Code]](https://github.com/WenshuaiHu/MSRS_Classification_Dual-channel_A3CLNN) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Rui Wang, Feng Gao, Qian Du, and Antonio Plaza, \"Pseudo Complex-Valued Deformable ConvLSTM Neural Network With Mutual Attention Learning for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-17, 2022, Art no. 5533017, doi: 10.1109/TGRS.2022.3188791. [[Website]](https://xplorestaging.ieee.org/document/9816024) 
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Rui Wang, Feng Gao, Qian Du, and Antonio Plaza, \"Pseudo Complex-Valued Deformable ConvLSTM Neural Network With Mutual Attention Learning for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, pp. 1-17, 2022, Art no. 5533017, doi: 10.1109/TGRS.2022.3188791. [[Website]](https://xplorestaging.ieee.org/document/9816024) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_APDCLNN_SSPDCL2DNN) 
   
 - Heng-Chao Li, Shuang-Shuang Li, **Wen-Shuai Hu\***, Jun-Huan Feng, Wei-Wei Sun, and Qian Du, \"Recurrent Feedback Convolutional Neural Network for Hyperspectral Image Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, pp. 1-5, 2022, Art no. 5504405, doi: 10.1109/LGRS.2021.3064349. [[Website]](https://xplorestaging.ieee.org/document/9381397)
 
@@ -95,7 +95,7 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2021
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Yang-Jun Deng, Xian Sun, Qian Du, and Antonio Plaza, \"Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, no. 3, pp. 734-745, April 2021, doi: 10.1109/JSTSP.2021.3063805. [[Website]](https://xplorestaging.ieee.org/document/9369839) 
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Yang-Jun Deng, Xian Sun, Qian Du, and Antonio Plaza, \"Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, no. 3, pp. 734-745, April 2021, doi: 10.1109/JSTSP.2021.3063805. [[Website]](https://xplorestaging.ieee.org/document/9369839) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
 
 - Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137.[[Website]](https://xplorestaging.ieee.org/document/9507255/) 
 
@@ -104,9 +104,9 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2020
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947.[[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947.[[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_SSCL2DNN-SSCL3DNN) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) 
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
 
 
 
