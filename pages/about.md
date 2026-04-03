@@ -61,7 +61,7 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
-- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026.
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026. [[Code]](https://github.com/WenshuaiHu/UDA-MSRS-CCU-MaxNet/tree/main)
 
 
 ## 2025
