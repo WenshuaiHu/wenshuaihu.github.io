@@ -66,7 +66,7 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2025
 
-- **Wen-Shuai Hu**, Wei Li\*, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, \"Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735.  [[Website]](https://xplorestaging.ieee.org/document/10557680) [[Code]](https://github.com/WenshuaiHu/MSRS_Classification_GCCQTNet)
+- **Wen-Shuai Hu**, Wei Li\*, Heng-Chao Li, Feng-Hua Huang, and Ran Tao, \"Global Clue-Guided Cross-Memory Quaternion Transformer Network for Multisource Remote Sensing Data Classification\", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 36, no. 4, pp. 7357-7371, April 2025, doi: 10.1109/TNNLS.2024.3406735. [[Website]](https://xplorestaging.ieee.org/document/10557680) [[Code]](https://github.com/WenshuaiHu/MSRS_Classification_GCCQTNet)
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang\*, and Ran Tao, \"Unsupervised Domain Adaptation With Hierarchical Masked Dual-Adversarial Network for End-to-End Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-17, 2025, Art no. 4409917, doi: 10.1109/TGRS.2025.3566305. [[Website]](https://xplorestaging.ieee.org/document/10981764) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_HMDA-DANet)
 
@@ -97,17 +97,16 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Heng-Chao Li\*, Yang-Jun Deng, Xian Sun, Qian Du, and Antonio Plaza, \"Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification\", _IEEE Journal of Selected Topics in Signal Processing_, vol. 15, no. 3, pp. 734-745, April 2021, doi: 10.1109/JSTSP.2021.3063805. [[Website]](https://xplorestaging.ieee.org/document/9369839) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
 
-- Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137.[[Website]](https://xplorestaging.ieee.org/document/9507255/) 
+- Yun-Cheng Li, Heng-Chao Li\*, **Wen-Shuai Hu\***, and Hui-Ling Yu, \"DSPCANet: Dual-Channel Scale-Aware Segmentation Network With Position and Channel Attentions for High-Resolution Aerial Images\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 8552-8565, 2021, doi: 10.1109/JSTARS.2021.3102137. [[Website]](https://xplorestaging.ieee.org/document/9507255/) 
 
 - 李泽琛, 李恒超, **胡文帅**, 杨金玉, 华泽玺\*. 多尺度注意力学习的Faster R-CNN口罩人脸检测模型[J]. 西南交通大学学报, 2021, 56(5): 1002-1010. [[Website]](https://kns.cnki.net/kcms2/article/abstract?v=Vs3rztogjcXihdtymADd4BJkBRo3ss_a9Q918f3OahDXKQvuJsXXN1NdPqwTqxeXL3yVaRF_z0yoJu2IET6tK0W5oKy02ajdKhYXI1YQwX2zELlRo6U0q6Hi3ipXoHNIoddpUBECSCM5hl3qsQ9oT2lRFUXeL4IkvYecZet52tqsoOrhRWg307RlkRpUyaC3SW4dia1Rhx0&uniplatform=NZKPT&captchaId=98714099-6673-4d11-b073-97765498730e)
 
 
 ## 2020
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947.[[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_SSCL2DNN-SSCL3DNN) (<span style="color:red">ESI Highly Cited Paper</span>)
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947. [[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_SSCL2DNN-SSCL3DNN) (<span style="color:red">ESI Highly Cited Paper</span>)
 
 - **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
-
 
 
 # 📖 Educations
@@ -118,6 +117,7 @@ My current interests include intelligent interpretation and applications of remo
   Supervisor: [Prof. Jun-Huan Feng (冯军焕教授)](https://faculty.swjtu.edu.cn/fengjunhuan)
 - *2012.09-2016.06*: Shanxi Agricultural University (SXAU); Bachelor student in Electronic Information Science and Technology
 
+
 # 💾 Fundings
 
 - 国家自然科学基金委员会青年科学基金项目(C类), 62501052，2026.01-2028.12, 在研，主持
@@ -125,12 +125,13 @@ My current interests include intelligent interpretation and applications of remo
 - 中国博士后科学基金会面上项目，2024M754088，2024.07-2026.06, 在研，主持
 - 福建省空间信息感知与智能处理重点实验室(阳光学院)开放基金，FKLSIPIP101，2024.01-2025.06，结题，主持
 
+
 # 🏆 Awards and Honors
 
 -  2025年度教育部（科学研究优秀成果奖）自然科学奖二等奖（4/7）, 中华人民共和国教育部，2025.12.19
 -  2022年度中国电子学会优秀博士学位论文奖（1/1），中国电子学会, 2023.03.08（为西南交通大学首次入选的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
 
--  
+
 # 🌐 Academic Activities
 
 ## 🎤 Reports
@@ -146,15 +147,18 @@ My current interests include intelligent interpretation and applications of remo
 -  Remote Sensing (RS), _Reviewer_
 -  ... ...
 
+
 <!--
 注释符号
  -->
- 
+
+
 ## 🤝 Co-authors
 
 -  [Prof. Heng-Chao Li (李恒超教授)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
 -  [Prof. Ran Tao (陶然教授)](https://sie.bit.edu.cn/szdw/jsml/dwdxhyxxclyjs/zgzcf/cf5b8fc153d64619a6a2a8e9154bc237.htm)
 -  [Prof. Wei Li (李伟教授)](https://sie.bit.edu.cn/szdw/jsml/dwdxhyxxclyjs/zgzcf/75e704f9c9ed400c83c415ee8e197855.htm)
 -  ... ...
+
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
