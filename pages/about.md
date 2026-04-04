@@ -129,9 +129,11 @@ My current interests include intelligent interpretation and applications of remo
 ## ⌨ Editor and Reviewer
 
 -  Remote Sensing (Machine Learning for Intelligent Processing and Applications of Multi-Source Remote Sensing Data), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/6Q33X37438)
+-  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
--  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE TCI), _Reviewer_
+-  Pattern Recognition (PR), _Reviewer_
+-  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS), _Reviewer_
 -  Remote Sensing (RS), _Reviewer_
 -  ... ...
 
