@@ -27,18 +27,6 @@ My current interests include intelligent interpretation and applications of remo
 
 # 🔔 News
 
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optik</div><img src='images/callforpapers.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*2023.07*: &nbsp; <span style="color:blue">**Call for papers**</span> — Optik Special Issue:
-
-[Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery](https://www.sciencedirect.com/journal/optik/about/call-for-papers#recent-trends-of-math-and-deep-modeling-in-multi-dimensional-image-recovery-theory-models-algorithms-and-applications-vsi-multi-dimensional-image-recovery)
-
-*Edited by* Xi-Le Zhao, Guo-Cheng Wu, Tai-Xiang Jiang, and **Yu-Bang Zheng**
-
-</div>
-</div>
--->
 - *2026.03*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
 
 <!--
@@ -106,7 +94,7 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947. [[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_SSCL2DNN-SSCL3DNN) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
 
 
 # 📖 Educations
@@ -120,31 +108,35 @@ My current interests include intelligent interpretation and applications of remo
 
 # 💾 Fundings
 
-- 国家自然科学基金委员会青年科学基金项目(C类), 62501052，2026.01-2028.12, 在研，主持
+- 国家自然科学基金委员会青年科学基金项目 (C类), 62501052，2026.01-2028.12, 在研，主持
 - 全国博士后管委会办公室和中国博士后科学基金会国家资助博士后研究人员计划，GZC20242184，2024.07-2026.06, 在研，主持
 - 中国博士后科学基金会面上项目，2024M754088，2024.07-2026.06, 在研，主持
-- 福建省空间信息感知与智能处理重点实验室(阳光学院)开放基金，FKLSIPIP101，2024.01-2025.06，结题，主持
+- 福建省空间信息感知与智能处理重点实验室 (阳光学院) 开放基金，FKLSIPIP101，2024.01-2025.06，结题，主持
 
 
 # 🏆 Awards and Honors
 
--  2025年度教育部（科学研究优秀成果奖）自然科学奖二等奖（4/7）, 中华人民共和国教育部，2025.12.19
--  2022年度中国电子学会优秀博士学位论文奖（1/1），中国电子学会, 2023.03.08（为西南交通大学首次入选的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
+-  2025年度教育部（科学研究优秀成果奖）自然科学奖二等奖 (4/7), 中华人民共和国教育部，2025.12.19
+-  2022年度中国电子学会优秀博士学位论文奖 (1/1)，中国电子学会, 2023.03.08（为**西南交通大学首次入选**的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
 
 
 # 🌐 Academic Activities
 
 ## 🎤 Reports
 
-- *2019.07*: \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _IGARSS 2020_, **Online** (Oral) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf)
+- *2020.07*: \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _IGARSS 2020_, **Online** (Oral) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf)
 
 ## ⌨ Editor and Reviewer
 
--  Remote Sensing (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
+-  Remote Sensing (Machine Learning for Intelligent Processing and Applications of Multi-Source Remote Sensing Data), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/6Q33X37438)
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
 -  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE TCI), _Reviewer_
 -  Remote Sensing (RS), _Reviewer_
+-  ... ...
+
+## ⌨ International Conference Services
+-  Local Committee and Secssion Chair of the 7th International Conference on Image and Graphis Processing (ICIGP2024)，January 19-21, 2024 [[Website]](https://mp.weixin.qq.com/s/__fFTTX4QYjCquEExKpPcw)
 -  ... ...
 
 
