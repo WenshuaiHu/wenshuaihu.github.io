@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China, under the supervision of Prof. [Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). 
+I am currently a Lecturer with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China, under the supervision of Prof. [Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). 
 
 My current interests include intelligent interpretation and applications of remote sensing images, computer vision and pattern recognition, deep learning and lightweighting design.
 
