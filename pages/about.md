@@ -49,7 +49,9 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
-- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
+
+
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
 
 
 ## 2025
@@ -108,10 +110,11 @@ My current interests include intelligent interpretation and applications of remo
 
 # 💾 Fundings
 
-- 国家自然科学基金委员会青年科学基金项目 (C类), 62501052，2026.01-2028.12, 在研，主持
-- 全国博士后管委会办公室和中国博士后科学基金会国家资助博士后研究人员计划，GZC20242184，2024.07-2026.06, 在研，主持
-- 中国博士后科学基金会面上项目，2024M754088，2024.07-2026.06, 在研，主持
-- 福建省空间信息感知与智能处理重点实验室 (阳光学院) 开放基金，FKLSIPIP101，2024.01-2025.06，结题，主持
+- 国家自然科学基金委员会青年科学基金项目 (C类), 62501052，2026-01至2028-12, 在研，主持
+- 中央高校，基本科研业务费科研创新项目，2682026CX066，2026-01至2028-12，在研，主持
+- 全国博士后管委会办公室和中国博士后科学基金会国家资助博士后研究人员计划，GZC20242184，2024-07至2026-06, 在研，主持
+- 中国博士后科学基金会面上项目，2024M754088，2024-07至2026-06, 在研，主持
+- 福建省空间信息感知与智能处理重点实验室 (阳光学院) 开放基金，FKLSIPIP101，2024-01至2025-06，结题，主持
 
 
 # 🏆 Awards and Honors
@@ -127,7 +130,7 @@ My current interests include intelligent interpretation and applications of remo
 - *2020.07*: \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _IGARSS 2020_, **Online** (Oral) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf)
 
 ## ⌨ Editor and Reviewer
-
+-  Remote Sensing (Remote Sensing with LiDAR Point Clouds: From Semantic Segmentation to 3D Scene Understanding), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/Q99LU9G27U)
 -  Remote Sensing (Machine Learning for Intelligent Processing and Applications of Multi-Source Remote Sensing Data), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/6Q33X37438)
 -  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
