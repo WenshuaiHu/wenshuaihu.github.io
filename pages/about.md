@@ -130,8 +130,8 @@ My current interests include intelligent interpretation and applications of remo
 - *2020.07*: \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _IGARSS 2020_, **Online** (Oral) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf)
 
 ## ⌨ Editor and Reviewer
--  Remote Sensing (Remote Sensing with LiDAR Point Clouds: From Semantic Segmentation to 3D Scene Understanding), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/Q99LU9G27U)
--  Remote Sensing (Machine Learning for Intelligent Processing and Applications of Multi-Source Remote Sensing Data), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/6Q33X37438)
+-  Remote Sensing (Remote Sensing with LiDAR Point Clouds: From Semantic Segmentation to 3D Scene Understanding, 2026), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/Q99LU9G27U)
+-  Remote Sensing (Machine Learning for Intelligent Processing and Applications of Multi-Source Remote Sensing Data, 2025), _Guest Editor_[[Website]](https://www.mdpi.com/journal/remotesensing/special_issues/6Q33X37438)
 -  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
 -  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
 -  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
