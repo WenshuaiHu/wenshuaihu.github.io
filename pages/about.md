@@ -27,6 +27,7 @@ My current interests include intelligent interpretation and applications of remo
 
 # 🔔 News
 
+- *2026.07*: &nbsp; One paper is accepted by _**Expert Systems With Applications**_. 
 - *2026.03*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
 
 <!--
