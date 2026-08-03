@@ -49,7 +49,7 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
-
+- Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, Accepted, 2026.
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
 
