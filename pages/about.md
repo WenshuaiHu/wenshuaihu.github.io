@@ -26,9 +26,9 @@ My current interests include intelligent interpretation and applications of remo
 📧 E-mail: <wshuswjtu@163.com>; <wshu@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 690+](https://scholar.google.com/citations?user=_IXO0bEAAAAJ&hl=en)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/huwenshuai/zh_CN/index/925959/list/index.htm)
 
 # 🔔 News
-
-- *2026.07*: &nbsp; One paper is accepted by _**Expert Systems With Applications**_. 
-- *2026.03*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+- *2026.08.11*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+- *2026.07.31*: &nbsp; One paper is accepted by _**Expert Systems With Applications**_. 
+- *2026.03.19*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
 
 <!--
 # 🧰 Projects
@@ -50,6 +50,8 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
+- **Wen-Shuai Hu**, Guo-Liang Ren, Heng-Chao Li\*, Xudong Zhao, Weiwei Sun, Ran Tao, \"HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images\", _IEEE Transactions on Geoscience and Remote Sensing_, Accepted, 2026.
+- 
 - Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, Accepted, 2026.
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
