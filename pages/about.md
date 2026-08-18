@@ -52,7 +52,7 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Guo-Liang Ren, Heng-Chao Li\*, Xudong Zhao, Weiwei Sun, Ran Tao, \"HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026. [[Website]](https://ieeexplore.ieee.org/document/11657448) [[Code]](https://github.com/WenshuaiHu/HSI-FrFRWKV)
 
-- Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, Accepted, 2026.  [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752) [[Code]](https://github.com/nnli2026/HOT_TCF_FLSP)
+- Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, vol. 333, pp. 133867-1-14, 2027.  [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752) [[Code]](https://github.com/nnli2026/HOT_TCF_FLSP)
 
 - **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
 
