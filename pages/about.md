@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Lecturer with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China, under the supervision of Prof. [Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). 
+I am currently a Assistant Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China, under the supervision of Prof. [Heng-Chao Li](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm). 
 
 My current interests include intelligent interpretation and applications of remote sensing images, computer vision and pattern recognition, deep learning and lightweighting design.
 
@@ -50,7 +50,7 @@ My current interests include intelligent interpretation and applications of remo
 
 ## 2026
 
-- **Wen-Shuai Hu**, Guo-Liang Ren, Heng-Chao Li\*, Xudong Zhao, Weiwei Sun, Ran Tao, \"HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images\", _IEEE Transactions on Geoscience and Remote Sensing_, to be published, 2026. [[Website]](https://ieeexplore.ieee.org/document/11657448) [[Code]](https://github.com/WenshuaiHu/HSI-FrFRWKV)
+- **Wen-Shuai Hu**, Guo-Liang Ren, Heng-Chao Li\*, Xudong Zhao, Weiwei Sun, Ran Tao, \"HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images\", _IEEE Transactions on Geoscience and Remote Sensing_, pp. 5525214-5525214, 2026, Art no. 5525214. [[Website]](https://ieeexplore.ieee.org/document/11657448) [[Code]](https://github.com/WenshuaiHu/HSI-FrFRWKV)
 
 - Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, vol. 333, pp. 133867-1-14, 2027.  [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752) [[Code]](https://github.com/nnli2026/HOT_TCF_FLSP)
 
