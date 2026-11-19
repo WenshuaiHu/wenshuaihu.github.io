@@ -23,7 +23,7 @@ My current interests include intelligent interpretation and applications of remo
 
 📢 <span style="color:blue">**My team "Remote Sensing Intelligence and Computing" led by Professor Heng-Chao Li admits 7\~10 master’s students and 1\~2 PhD students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
 
-📧 E-mail: <wshuswjtu@163.com>; <wshu@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 690+](https://scholar.google.com/citations?user=_IXO0bEAAAAJ&hl=en)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/huwenshuai/zh_CN/index/925959/list/index.htm)
+📧 E-mail: <wshuswjtu@163.com>; <wshu@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 800+](https://scholar.google.com/citations?user=_IXO0bEAAAAJ&hl=en)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/huwenshuai/zh_CN/index/925959/list/index.htm)
 
 # 🔔 News
 - *2026.10.26*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
