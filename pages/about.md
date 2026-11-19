@@ -126,7 +126,7 @@ My current interests include intelligent interpretation and applications of remo
 # 🏆 Awards and Honors
 
 -  2025年度教育部（科学研究优秀成果奖）自然科学奖二等奖 (4/7), 中华人民共和国教育部，2025.12.19
--  2022年度中国电子学会优秀博士学位论文奖 (1/1)，中国电子学会, 2023.03.08（为**(<span style="color:red">西南交通大学首次入选</span>)**的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
+-  2022年度中国电子学会优秀博士学位论文奖 (1/1)，中国电子学会, 2023.03.08（为**西南交通大学首次入选**的博士学位论文） [[news]](https://gsnews.swjtu.edu.cn/info/1068/6489.htm)
 
 
 # 🌐 Academic Activities
