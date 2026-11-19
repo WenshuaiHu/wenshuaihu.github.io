@@ -53,11 +53,11 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Guo-Liang Ren, Heng-Chao Li\*, Xudong Zhao, Weiwei Sun, Ran Tao, \"HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images\", _IEEE Transactions on Geoscience and Remote Sensing_, pp. 5525214-5525214, 2026, Art no. 5525214. [[Website]](https://ieeexplore.ieee.org/document/11657448) [[Code]](https://github.com/WenshuaiHu/HSI-FrFRWKV)
 
-- Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, vol. 333, pp. 133867-1-14, 2027.  [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752) [[Code]](https://github.com/nnli2026/HOT_TCF_FLSP)
+- Na-Na Li, Heng-Chao Li, **Wen-Shuai Hu\***, Jian-Li Wang, Ran Tao, and Qian Du, \"Learning Tensor Correlation Filter with Fused Low-Rank and Smoothness Priors for Hyperspectral Video Object Tracking\", _Expert Systems With Applications_, vol. 333, pp. 133867-1-14, 2027. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752) [[Code]](https://github.com/nnli2026/HOT_TCF_FLSP)
 
-- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet)
+- **Wen-Shuai Hu**, Wei Li, Heng-Chao Li\*, Xudong Zhao, Mengmeng Zhang, and Ran Tao, \"Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 64, pp. 1-17, 2026, Art no. 4408117. [[Website]](https://xplorestaging.ieee.org/document/11480897) [[Code]](https://github.com/WenshuaiHu/UDA_MSRS_CCU-MaxNet) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- Yu-Le Wei, Heng-Chao Li, - **Wen-Shuai Hu**, Qian Du, and Antonio Plaza, \"Quaternion Wavelet Vision-Language Network for Few-Shot Multisource Remote Sensing Classification\", ‌_IEEE Transactions on Circuits and Systems for Video Technology_, to be published, 2026, doi: 10.1109/TCSVT.2026.3747020.[[Website]](https://xplorestaging.ieee.org/document/11753887) 
+- Yu-Le Wei, Heng-Chao Li, - **Wen-Shuai Hu**, Qian Du, and Antonio Plaza, \"Quaternion Wavelet Vision-Language Network for Few-Shot Multisource Remote Sensing Classification\", ‌_IEEE Transactions on Circuits and Systems for Video Technology_, to be published, 2026, doi: 10.1109/TCSVT.2026.3747020. [[Website]](https://xplorestaging.ieee.org/document/11753887) 
 
 
 ## 2025
@@ -102,7 +102,7 @@ My current interests include intelligent interpretation and applications of remo
 
 - **Wen-Shuai Hu**, Heng-Chao Li\*, Lei Pan, Wei Li, Ran Tao, and Qian Du, \"Spatial-Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 6, pp. 4237-4250, June 2020, doi: 10.1109/TGRS.2019.2961947. [[Website]](https://xplorestaging.ieee.org/document/8960629) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_SSCL2DNN-SSCL3DNN) (<span style="color:red">ESI Highly Cited Paper</span>)
 
-- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN) 
+- **Wen-Shuai Hu**, Heng-Chao Li\*, Tian-Yu Ma, Qian Du, Antonio Plaza, and William J. Emery, \"Hyperspectral Image Classification Based on Tensor-Train Convolutional Long Short-Term Memory\", _in Proc. IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 858-861, doi: 10.1109/IGARSS39084.2020.9324095. [[Website]](https://xplorestaging.ieee.org/document/9324095) [[Slide]](https://wenshuaihu.github.io/papers/Oral_IGARSS2020.pdf) [[Code]](https://github.com/WenshuaiHu/HSI_Classification_TACLNN_SSTTCL2DNN)
 
 
 # 📖 Educations
